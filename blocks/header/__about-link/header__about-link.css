@@ -1,0 +1,13 @@
+.header__about-link {
+  font-family: 'Rubik';
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  margin-right: 40px;
+  padding-bottom: 5px;
+}
+
+.header__about-link:hover {
+  border-bottom: 2px solid white;
+}

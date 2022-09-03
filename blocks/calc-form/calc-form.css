@@ -1,0 +1,7 @@
+.calc-form {
+  overflow: hidden;
+  width: 428px;
+  height: 582px;
+  background-color: rgba(255, 255, 255, .9);
+  border-radius: 15px;
+}

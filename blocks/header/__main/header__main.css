@@ -1,0 +1,12 @@
+.header__main {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 64px;
+}
+
+@media only screen and (max-width: 1664px) {
+  .header__main {
+    width: 80%;
+  }
+}

@@ -1,0 +1,22 @@
+.header__title {
+  box-sizing: border-box;
+  padding: 15px 23px 15px 75px;
+  background-color: white;
+  color: black;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: 500;
+  width: 382px;
+  height: 56px;
+  border-radius: 12px;
+  position: relative;
+}
+
+.header__title::before {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  bottom: 10px;
+  left: 8px;
+  content: url('../../../images/fire-header.svg');
+}
